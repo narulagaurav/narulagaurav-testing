@@ -1,0 +1,1 @@
+Java –cp bin/OLAMAuto/;lib/* org.testng.TestNG testng.xml
